@@ -15,6 +15,7 @@ I've worked with a bunch:
 - Mysql, Mariadb, SQL Server databases
 - Node.js/express, C# .NET, Java spring backends
 - All of my cloud experience is in Azure
+- Github Copilot, Claude Code, Cline, Roo, Openrouter for some AI tools I've been exploring
 
 ## 🌱 I'm Currently Learning
 - Exploring different AI coding toolsets and even trying locally hosted LLM inferencing
