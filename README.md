@@ -7,6 +7,7 @@ I'm a software engineer based in New Jersey
 - C# .net app management
 - Setting up robust CI/CD pipelines for Azure
 - Exploring best practices in software architecture and design
+- Incorporating AI into every aspect of my workflows
 
 ## 💻 Tech Stack
 I've worked with a bunch:
@@ -16,6 +17,7 @@ I've worked with a bunch:
 - All of my cloud experience is in Azure
 
 ## 🌱 I'm Currently Learning
+- Exploring different AI coding toolsets and even trying locally hosted LLM inferencing
 - C# API frameworks, React UIs
 - DevOps and CI/CD best practices
 - Software design patterns and architecture
