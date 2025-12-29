@@ -1,7 +1,7 @@
 # Hi there, I'm Trim 👋
 
 ## About Me
-I'm a software engineer
+I'm a software engineer based in New Jersey
 
 ## 🔭 Current Focus
 - C# .net app management
@@ -9,12 +9,14 @@ I'm a software engineer
 - Exploring best practices in software architecture and design
 
 ## 💻 Tech Stack
-```
-- I've worked with a bunch, always like learning more
-```
+I've worked with a bunch:
+- Java Swing UIs/ JavaFX UIs for desktop, mainly React UIs for web
+- Mysql, Mariadb, SQL Server databases
+- Node.js/express, C# .NET, Java spring backends
+- All of my cloud experience is in Azure
 
 ## 🌱 I'm Currently Learning
-- C# API frameworks
+- C# API frameworks, React UIs
 - DevOps and CI/CD best practices
 - Software design patterns and architecture
 
