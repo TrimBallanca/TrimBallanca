@@ -4,10 +4,10 @@
 I'm a software engineer based in New Jersey
 
 ## 🔭 Current Focus
+- Incorporating AI into every aspect of my workflows, from the ideation phase to design and even implementation, testing and maintenance.
 - C# .net app management
 - Setting up robust CI/CD pipelines for Azure
 - Exploring best practices in software architecture and design
-- Incorporating AI into every aspect of my workflows
 
 ## 💻 Tech Stack
 I've worked with a bunch:
